@@ -14,3 +14,4 @@ bikeshare.py
 techy blog
 
 " Thank You All" 
+"Udacity is good for Learning" 
